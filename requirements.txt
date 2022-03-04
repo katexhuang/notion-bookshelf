@@ -1,0 +1,6 @@
+notion_client==0.4.0
+# pandas==1.4.1
+python-dotenv==0.19.2
+wikipedia==1.4.0
+lxml=4.8.0
+pycurl==7.44.1 --compile --install-option="--with-openssl"
